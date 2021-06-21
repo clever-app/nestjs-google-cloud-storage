@@ -29,3 +29,11 @@ npm run build
 ```bash
 npm run lint
 ```
+
+## Stay in touch
+
+- Author - [Jérôme Dumas](https://www.linkedin.com/in/jerome-dumas/)
+
+## License
+
+Google Cloud Storage Module for Nest.js is [MIT licensed](LICENSE).
