@@ -1,0 +1,3 @@
+export const GCLOUD_STORAGE_DOMAIN = 'storage.googleapis.com';
+export const GCLOUD_STORAGE_BASE_URL = `https://${GCLOUD_STORAGE_DOMAIN}`;
+export const GCLOUD_STORAGE_MODULE_OPTIONS = 'GCLOUD_STORAGE_MODULE_OPTIONS';
